@@ -1,0 +1,40 @@
+#sm{
+    
+    height: 150px;
+    width: 150px;
+    border-radius: 100%;
+    padding: 20px;
+    margin: auto;
+    position: absolute;
+    top: 0; left: 0; bottom: 0; right: 0;
+    
+}
+.day {
+    background:#37d8e6;
+}
+.night {
+    background: #2c3e50;
+}
+.sun {
+      
+    background-color: #ffdd00;
+    border: 10px solid #f1c40f;
+}
+.sun:hover {
+    border: 20px solid #f1c40f;
+}
+.moon:hover {
+    border: 20px solid #eaeff2;
+}
+.moon {
+    background-color: #bdc3c7;
+    border: 10px solid #eaeff2;
+}
+#ms1 {
+    height: 40px;
+    width: 40px;
+    border-radius: 100%;
+    float:right;
+    margin: 20px;
+}
+
